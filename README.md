@@ -15,6 +15,7 @@
 |HTML|HyperText Markup Language|超文本标记语言|
 |IAAS|Infrastructure as a Service|基础设施即服务|
 |JSON|JavaScript Object Notation|JS对象简谱|
+|MVVM|Model-View-ViewModel|模型-视图-视图模型架构|
 |NPM|Node Package Manager|Node.js 的包管理器|
 |PAAS|Platform As a Service|平台即服务|
 |SAAS|Software As a Service|软件即服务|
