@@ -1,6 +1,6 @@
 # technical-abbreviations
 
-一些技术名词的缩写及其对应的解释。
+一些名词的缩写及其对应的解释。
 
 ## 业务名词
 
@@ -34,6 +34,10 @@
 
 |Abbreviation|Full Name|Description|
 |---|---|---|
+|CEO|Chief Executive Officer|首席执行官|
+|CFO|Chief Financial Officer|首席财务官|
+|COO|Chief Operation Officer|首席运营官|
+|CTO|Chief Technology Officer|首席技术官|
 |DBA|Database Administrator|数据库管理员|
 |PM|Project Manager|项目经理，负责管理产品的需求和研发|
 |PO|Product Owner|产品或业务负责人|
