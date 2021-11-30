@@ -20,15 +20,23 @@
 |AST|Abstract Syntax Trees|抽象语法树|
 |BOM|Browser Object Model|浏览器对象模型|
 |CSR|Client Side Render|客户端渲染|
+|CSRF|Cross-site Request Forgery|跨站请求伪造|
 |CSS|Cascading Style Sheets|层叠样式表|
 |DDD|Domain Driven Design|领域驱动设计|
+|DSL|Dynamic Script Language|动态脚本语言|
+|TDD|Test Driven Development|测试驱动开发|
 |DOM|Document Object Model|文档对象模型|
 |HTML|HyperText Markup Language|超文本标记语言|
+|HTTP|Hyper Text Transfer Protocol|超文本传输协议|
 |JSON|JavaScript Object Notation|JS对象简谱|
+|LRU|Least Recently Used|最近最少使用算法|
 |MVVM|Model-View-ViewModel|模型-视图-视图模型架构|
 |NPM|Node Package Manager|Node.js 的包管理器|
+|RPC|Remote Procedure Call|远程过程调用|
+|SQL|Structured Query Language|结构化查询语言|
 |SSR|Server Side Render|服务端渲染|
 |VCS|Version Control System|版本控制系统|
+|XSS|Cross-site Scripting|跨站脚本，X 是为了与 CSS 区分|
 
 ## 组织架构名词
 
