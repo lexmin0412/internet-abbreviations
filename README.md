@@ -28,6 +28,7 @@
 |DOM|Document Object Model|文档对象模型|
 |HTML|HyperText Markup Language|超文本标记语言|
 |HTTP|Hyper Text Transfer Protocol|超文本传输协议|
+|IP|Internet Protocol|网际互联协议|
 |JSON|JavaScript Object Notation|JS对象简谱|
 |LRU|Least Recently Used|最近最少使用算法|
 |MVVM|Model-View-ViewModel|模型-视图-视图模型架构|
@@ -35,6 +36,7 @@
 |RPC|Remote Procedure Call|远程过程调用|
 |SQL|Structured Query Language|结构化查询语言|
 |SSR|Server Side Render|服务端渲染|
+|TCP|Transmission Control Protocol|传输控制协议|
 |VCS|Version Control System|版本控制系统|
 |XSS|Cross-site Scripting|跨站脚本，X 是为了与 CSS 区分|
 
