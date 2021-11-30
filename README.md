@@ -24,19 +24,24 @@
 |CSS|Cascading Style Sheets|层叠样式表|
 |DDD|Domain Driven Design|领域驱动设计|
 |DSL|Dynamic Script Language|动态脚本语言|
-|TDD|Test Driven Development|测试驱动开发|
 |DOM|Document Object Model|文档对象模型|
+|FTP|File Transfer Protocol|文件传输协议|
 |HTML|HyperText Markup Language|超文本标记语言|
 |HTTP|Hyper Text Transfer Protocol|超文本传输协议|
 |IP|Internet Protocol|网际互联协议|
 |JSON|JavaScript Object Notation|JS对象简谱|
+|JWT|Json Web Token|为在网络应用环境间传递声明而执行的一种基于JSON的开放标准|
 |LRU|Least Recently Used|最近最少使用算法|
 |MVVM|Model-View-ViewModel|模型-视图-视图模型架构|
+|NCP|Network Control Protocol|网络控制协议|
 |NPM|Node Package Manager|Node.js 的包管理器|
+|OSI|Open System Interconnection|开放式系统互联|
 |RPC|Remote Procedure Call|远程过程调用|
 |SQL|Structured Query Language|结构化查询语言|
 |SSR|Server Side Render|服务端渲染|
 |TCP|Transmission Control Protocol|传输控制协议|
+|TDD|Test Driven Development|测试驱动开发|
+|UDP|User Datagram Protocol|用户数据包协议|
 |VCS|Version Control System|版本控制系统|
 |XSS|Cross-site Scripting|跨站脚本，X 是为了与 CSS 区分|
 
