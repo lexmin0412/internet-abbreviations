@@ -6,10 +6,11 @@
 
 |Abbreviation|Full Name|Description|
 |---|---|---|
+|BAAS|Blockchain As a Service|区块链及服务|
 |CAAS|Containers as a Service|容器即服务|
 |ERP|Enterprise Resource Planning|企业资源计划|
 |FAAS|Function As a Service|功能即服务|
-|IAAS|Infrastructure as a Service|基础设施即服务|
+|IAAS|Infrastructure As a Service|基础设施即服务|
 |PAAS|Platform As a Service|平台即服务|
 |SAAS|Software As a Service|软件即服务|
 
