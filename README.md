@@ -42,6 +42,7 @@
 |RPC|Remote Procedure Call|远程过程调用|
 |SEO|Search Engine Optimization|搜索引擎优化|
 |SQL|Structured Query Language|结构化查询语言|
+|SRP|Single Responsibility Principle|单一职责原则|
 |SSR|Server Side Render|服务端渲染|
 |TCP|Transmission Control Protocol|传输控制协议|
 |TDD|Test Driven Development|测试驱动开发|
