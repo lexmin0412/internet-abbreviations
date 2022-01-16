@@ -54,6 +54,8 @@
 
 |Abbreviation|Full Name|Description|
 |---|---|---|
+|BU|Business Unit|业务单元|
+|BG|Business Group|事业群|
 |CEO|Chief Executive Officer|首席执行官|
 |CFO|Chief Financial Officer|首席财务官|
 |CIO|Chief Information Officer|首席信息官|
