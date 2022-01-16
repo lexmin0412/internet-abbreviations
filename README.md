@@ -60,6 +60,7 @@
 |COO|Chief Operation Officer|首席运营官|
 |CTO|Chief Technology Officer|首席技术官|
 |DBA|Database Administrator|数据库管理员|
+|HR|Human Resource|人力资源|
 |PM|Project Manager|项目经理，负责管理产品的需求和研发|
 |PO|Product Owner|产品或业务负责人|
 |QA|Quality Assurance|质量保证|
