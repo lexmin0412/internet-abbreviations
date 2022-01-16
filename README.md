@@ -39,6 +39,7 @@
 |MVVM|Model-View-ViewModel|模型-视图-视图模型架构|
 |NCP|Network Control Protocol|网络控制协议|
 |NPM|Node Package Manager|Node.js 的包管理器|
+|OOP|Object Oriented Programming|面向对象编程|
 |OSI|Open System Interconnection|开放式系统互联|
 |RPC|Remote Procedure Call|远程过程调用|
 |SEO|Search Engine Optimization|搜索引擎优化|
