@@ -28,6 +28,7 @@
 |DDD|Domain Driven Design|领域驱动设计|
 |DSL|Dynamic Script Language|动态脚本语言|
 |DOM|Document Object Model|文档对象模型|
+|ECMA|European Computer Manufacturers Association|欧洲计算机制造商协会|
 |FTP|File Transfer Protocol|文件传输协议|
 |HTML|HyperText Markup Language|超文本标记语言|
 |HTTP|Hyper Text Transfer Protocol|超文本传输协议|
