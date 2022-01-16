@@ -56,6 +56,7 @@
 |---|---|---|
 |CEO|Chief Executive Officer|首席执行官|
 |CFO|Chief Financial Officer|首席财务官|
+|CIO|Chief Information Officer|首席信息官|
 |COO|Chief Operation Officer|首席运营官|
 |CTO|Chief Technology Officer|首席技术官|
 |DBA|Database Administrator|数据库管理员|
