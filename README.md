@@ -64,6 +64,7 @@
 |DBA|Database Administrator|数据库管理员|
 |HR|Human Resource|人力资源|
 |HRBP|Human Resource Business Partner|人力资源业务合作伙伴|
+|IPO|Initial Public Offering|首次公开募股|
 |PM|Project Manager|项目经理，负责管理产品的需求和研发|
 |PO|Product Owner|产品或业务负责人|
 |QA|Quality Assurance|质量保证|
