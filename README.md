@@ -21,6 +21,7 @@
 |AJAX|Asynchronous JavaScript And XML|异步 JavaScript 和 XML|
 |AST|Abstract Syntax Trees|抽象语法树|
 |BOM|Browser Object Model|浏览器对象模型|
+|CLI|Command-Line Interface|命令行|
 |CORS|Cross-origin Resouce Sharing|跨域资源共享|
 |CSR|Client Side Render|客户端渲染|
 |CSRF|Cross-site Request Forgery|跨站请求伪造|
